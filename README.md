@@ -1,6 +1,6 @@
 # KeepAssX PHP
 
-This is a simple PHP file which implements the tiniest subset of the WebDAV (GET, PUT, MOVE, DELETE) to manage kdbx database files.
+This is a simple PHP file which implements the tiniest subset of the WebDAV (GET, PUT, MOVE, DELETE) to manage kdbx database files remotely and share them across devices easily.
 Compatible with http://www.keepassx.org/ and the keepass2android Android client among others probably.
 
 ## Installation
